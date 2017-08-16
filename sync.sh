@@ -1,1 +1,1 @@
-docker exec  touch /app/source/index.md
+docker exec slate touch /app/source/index.md
